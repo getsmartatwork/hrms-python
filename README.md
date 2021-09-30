@@ -1,4 +1,4 @@
-# Example of a scalable Flask API
+# HRMS python with scalable Flask API and swagger integration
 
 HRMS project with a scalable, maintainable, modular Flask API with a heavy emphasis on testing.
 
